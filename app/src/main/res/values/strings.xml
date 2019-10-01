@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">cipher</string>
     <string name="vigenere_cipher">Vigenere Cipher</string>
+    <string name="headerDecrypt">TextView</string>
 </resources>

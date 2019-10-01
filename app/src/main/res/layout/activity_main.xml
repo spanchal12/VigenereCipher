@@ -31,6 +31,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_vertical"
         android:layout_margin="10dp"
+        android:onClick="goToEncrypt"
         android:text="Encrypt Button" />
 
     <Button
@@ -38,6 +39,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
+        android:onClick="goToDecrypt"
         android:text="Decrypt Message" />
 
 </LinearLayout>
