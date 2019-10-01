@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">cipher</string>
+    <string name="vigenere_cipher">Vigenere Cipher</string>
 </resources>
