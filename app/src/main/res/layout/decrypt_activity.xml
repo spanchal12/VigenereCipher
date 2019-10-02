@@ -39,6 +39,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Decrypt!"
+        android:onClick="goToMessage"
         android:textAllCaps="false"
         android:textSize="20sp" />
 </LinearLayout>

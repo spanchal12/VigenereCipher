@@ -18,6 +18,8 @@
         </activity>
         <activity android:name=".encryptActivity" />
         <activity android:name=".decryptActivity" />
+        <activity android:name=".message" />
+        <activity android:name=".codedMessage" />
     </application>
 
 </manifest>
